@@ -61,12 +61,12 @@ $version = "1.0";
             </div>
             <section id="educacion" class="section">
                 <h2>educacion</h2>
-                <div class="project-card">
+                <div class="info-card">
                     <h3>Bachillerato Administracion de empresas</h3>
                     <p>Escuela Tecnica de Belen UTU 2021-2023</p>
                     <p>Funcionamiento y manejo de empresas</p>
                 </div>
-                <div class="project-card">
+                <div class="info-card">
                     <h3>Tecnologo En ciberseguridad</h3>
                     <p>Instituto Tecnologico superior de Paysandu 2024-Proxiamente</p>
                     <p>Especializacion en Desarrollo Seguro de Aplicaciones</p>
